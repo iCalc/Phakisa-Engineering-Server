@@ -14,8 +14,6 @@ using System.IO;
 using Analysis = clsAnalysis;
 using TB = clsTable;
 using DB = clsDBase;
-using Base = clsMain;
-using General = clsGeneral;
 using System.Net;
 using System.Net.Mail;
 using System.Threading;
